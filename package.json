@@ -1,0 +1,21 @@
+{
+  "name": "antartica_global_code_test",
+  "version": "1.0.0",
+  "description": "Code test for Antartica_Global, all the details regarding this project is in a \"Readme.md\" file. Please find the readme file and kindly reach out to me for further details and queries, Thank you!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Antartica_Global_code_test"
+  },
+  "author": "Pranay P.",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
